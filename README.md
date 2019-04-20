@@ -3,3 +3,6 @@ The objects responsible for managing the http accesses, application access level
 
 # Official documentation
 http://www.grantingtechnology.org/documentation/class-GTv/2/521#SecureAppData
+
+
+Download the files from this repository to your app's "App_Data" folder
