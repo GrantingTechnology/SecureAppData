@@ -30,6 +30,7 @@ namespace gt.community.secure
         {
 
 #if !DEBUG
+               gt.applicationType = configBase.ApplicationType.MVC;
                _pathsecure = "/Secure" ;          
 #endif
 
